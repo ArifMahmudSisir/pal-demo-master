@@ -50,17 +50,17 @@ const routes = [
   },
   {
     path: '/products/realist/ozone',
-    component: () => import('@/pages/products/Realist/Ozone.vue'), // R ar O boro hater
+    component: () => import('@/pages/products/Realist/Ozone.vue'),
     name: 'RealistOzone'
   },
   {
     path: '/products/realist/ozone/rmo',
-    component: () => import('@/pages/products/Realist/Ozone/RMO.vue'), // R, O, RMO boro hater
+    component: () => import('@/pages/products/Realist/ozone/Rmo.vue'),
     name: 'RealistOzoneRmo'
   },
   {
     path: '/products/realist/ozone/rogozone',
-    component: () => import('@/pages/products/Realist/Ozone/ROGOZONE.vue'), // ROGOZONE boro hater
+    component: () => import('@/pages/products/Realist/ozone/RogOzone.vue'),
     name: 'RealistOzoneRogOzone'
   },
 ]

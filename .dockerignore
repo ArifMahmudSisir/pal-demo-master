@@ -1,0 +1,14 @@
+node_modules
+dist
+.git
+.gitignore
+.vscode
+.idea
+.DS_Store
+*.md
+.env*
+.cache
+.temp
+.tmp
+Thumbs.db
+desktop.ini
