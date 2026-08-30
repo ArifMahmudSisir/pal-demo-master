@@ -3,14 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "dev": "node api.js && vite",
+    "build": "node api.js && vite build",
     "preview": "vite preview",
     "watch": "vite build --watch"
   },
-
   "dependencies": {
     "@heroicons/vue": "^2.2.0",
     "aos": "^2.3.4",
