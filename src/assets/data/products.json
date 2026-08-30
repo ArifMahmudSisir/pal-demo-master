@@ -1,0 +1,60 @@
+{
+  "realist": {
+    "name": "Realist",
+    "description": "Premium product line for industrial applications with cutting-edge technology",
+    "image": "/images/products/realist/realist.png",
+    "subcategories": {
+      "ozone": {
+        "name": "Ozone Systems",
+        "description": "Advanced ozone treatment solutions for water purification",
+        "image": "/images/products/realist/ozone/ozone.JPEG",
+        "products": {
+          "rmo": {
+            "name": "RMO",
+            "title": "Residential Ozone System",
+            "description": "Compact ozone generator for home use with advanced purification technology",
+            "images": [
+              "/images/products/realist/ozone/rmo-1.jpg"
+            ],
+            "features": [
+              "High-efficiency ozone generation",
+              "Compact and space-saving design",
+              "Easy installation and maintenance",
+              "Low energy consumption"
+            ],
+            "specifications": {
+              "Capacity": "5g/h ozone output",
+              "Power": "120W, 220V",
+              "Dimensions": "300x200x150mm",
+              "Weight": "3.5kg",
+              "Material": "Stainless steel and ABS plastic"
+            },
+            "videos": [
+            ]
+          },
+          "rog-ozone": {
+            "name": "ROG-OZONE",
+            "title": "Industrial Ozone Generator",
+            "description": "Heavy-duty ozone system for industrial applications",
+            "images": [
+              "/images/products/realist/ozone/rog-1.jpg"
+            ],
+            "features": [
+              "Industrial-grade construction",
+              "High capacity output",
+              "Advanced control system",
+              "Multiple safety features"
+            ],
+            "specifications": {
+              "Capacity": "50g/h ozone output",
+              "Power": "1500W, 380V",
+              "Dimensions": "600x400x300mm",
+              "Weight": "25kg",
+              "Material": "Stainless steel 316L"
+            }
+          }
+        }
+      }
+    }
+  }
+}
